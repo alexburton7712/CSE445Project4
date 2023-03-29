@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="Cruises">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="Cruise" minOccurs="1" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="Name" type="xsd:string" />
+                            <xsd:element name="Parent_Company" type="xsd:string" />
+                            <xsd:element name="FoundedIn" type="xsd:int" minOccurs="0" maxOccurs="1" />
+                            <xsd:element name="Departure_Ports" type="xsd:string" minOccurs="2" maxOccurs="unbounded"/>
+                            <xsd:element name="Reservation">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="Phone" type="xsd:string" />
+                                        <xsd:element name="Url" type="xsd:string" />
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="Headquarter" minOccurs="1" maxOccurs="unbounded">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="City" type="xsd:string" />
+                                        <xsd:element name="State" type="xsd:string" />
+                                        <xsd:element name="Zip" type="xsd:int" minOccurs="1"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

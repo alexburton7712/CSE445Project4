@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cruises>
+
+    <Cruise>
+        <Name>Carnival Cruise Line</Name>
+        <Parent_Company>Carnival Corporation</Parent_Company>
+        <FoundedIn>1972</FoundedIn>
+        <Departure_Ports>Baltimore</Departure_Ports>
+        <Departure_Ports>Los Angeles</Departure_Ports>
+        <Reservation>
+            <Phone>1-800-CARNIVAL</Phone>
+            <Url>www.carnival.com</Url>
+        </Reservation>
+        <Headquarter>
+            <City>Miami</City>
+            <State>Florida</State>
+            <Zip>33178</Zip>
+        </Headquarter>
+    </Cruise>
+
+    <Cruise>
+        <Name>Royal Caribbean International</Name>
+        <Parent_Company>Royal Caribbean Group</Parent_Company>
+        <FoundedIn>1969</FoundedIn>
+        <Departure_Ports>Miami</Departure_Ports>
+        <Departure_Ports>Port Canaveral</Departure_Ports>
+        <Departure_Ports>Barcelona</Departure_Ports>
+        <Reservation>
+          <Phone>1-800-398-9819</Phone>
+          <Url>https://www.royalcaribbean.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Miami</City>
+          <State>Florida</State>
+          <Zip>33178</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Norwegian Cruise Line</Name>
+        <Parent_Company>Norwegian Cruise Line Holdings Ltd.</Parent_Company>
+        <FoundedIn>1966</FoundedIn>
+        <Departure_Ports>Miami</Departure_Ports>
+        <Departure_Ports>Los Angeles</Departure_Ports>
+        <Departure_Ports>Barcelona</Departure_Ports>
+        <Reservation>
+          <Phone>1-866-234-7350</Phone>
+          <Url>https://www.ncl.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Miami</City>
+          <State>Florida</State>
+          <Zip>33126</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>MSC Cruises</Name>
+        <Parent_Company>MSC Group</Parent_Company>
+        <FoundedIn>1987</FoundedIn>
+        <Departure_Ports>Miami</Departure_Ports>
+        <Departure_Ports>New York City</Departure_Ports>
+        <Departure_Ports>Genoa</Departure_Ports>
+        <Reservation>
+          <Phone>1-877-665-4655</Phone>
+          <Url>https://www.msccruisesusa.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Geneva</City>
+          <State>Switzerland</State>
+          <Zip>1202</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Princess Cruises</Name>
+        <Parent_Company>Carnival Corporation</Parent_Company>
+        <FoundedIn>1965</FoundedIn>
+        <Departure_Ports>San Francisco</Departure_Ports>
+        <Departure_Ports>Los Angeles</Departure_Ports>
+        <Departure_Ports>Southampton</Departure_Ports>
+        <Reservation>
+          <Phone>1-800-774-6237</Phone>
+          <Url>https://www.princess.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Santa Clarita</City>
+          <State>California</State>
+          <Zip>91355</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Holland America Line</Name>
+        <Parent_Company>Carnival Corporation</Parent_Company>
+        <FoundedIn>1873</FoundedIn>
+        <Departure_Ports>Seattle</Departure_Ports>
+        <Departure_Ports>Vancouver</Departure_Ports>
+        <Departure_Ports>Rotterdam</Departure_Ports>
+        <Reservation>
+          <Phone>1-877-932-4259</Phone>
+          <Url>https://www.hollandamerica.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Seattle</City>
+          <State>Washington</State>
+          <Zip>98119</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Celebrity Cruises</Name>
+        <Parent_Company>Royal Caribbean Group</Parent_Company>
+        <FoundedIn>1988</FoundedIn>
+        <Departure_Ports>Miami</Departure_Ports>
+        <Departure_Ports>Seattle</Departure_Ports>
+        <Departure_Ports>Athens</Departure_Ports>
+        <Reservation>
+          <Phone>1-888-751-7804</Phone>
+          <Url>https://www.celebritycruises.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Miami</City>
+          <State>Florida</State>
+          <Zip>33178</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Costa Cruises</Name>
+        <Parent_Company>Carnival Corporation</Parent_Company>
+        <FoundedIn>1854</FoundedIn>
+        <Departure_Ports>Genoa</Departure_Ports>
+        <Departure_Ports>Marseille</Departure_Ports>
+        <Departure_Ports>Tokyo</Departure_Ports>
+        <Reservation>
+          <Phone>1-800-462-6782</Phone>
+          <Url>https://www.costacruises.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Genoa</City>
+          <State>Italy</State>
+          <Zip>16121</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Crystal Cruises</Name>
+        <Parent_Company>Genting Hong Kong</Parent_Company>
+        <FoundedIn>1988</FoundedIn>
+        <Departure_Ports>Miami</Departure_Ports>
+        <Departure_Ports>Los Angeles</Departure_Ports>
+        <Departure_Ports>Lisbon</Departure_Ports>
+        <Reservation>
+          <Phone>1-888-722-0021</Phone>
+          <Url>https://www.crystalcruises.com/</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Los Angeles</City>
+          <State>California</State>
+          <Zip>90067</Zip>
+        </Headquarter>
+      </Cruise>
+
+      <Cruise>
+        <Name>Silver Shadow</Name>
+        <Parent_Company>Silversea Cruises</Parent_Company>
+        <FoundedIn>1994</FoundedIn>
+        <Departure_Ports>Singapore</Departure_Ports>
+        <Departure_Ports>Hong Kong</Departure_Ports>
+        <Reservation>
+          <Phone>1-844-382-5166</Phone>
+          <Url>https://www.silversea.com/my-silversea/manage-your-booking.html</Url>
+        </Reservation>
+        <Headquarter>
+          <City>Monaco</City>
+          <State></State>
+          <Zip>98000</Zip>
+        </Headquarter>
+      </Cruise>
+
+</Cruises>
