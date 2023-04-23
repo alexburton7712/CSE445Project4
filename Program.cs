@@ -1,5 +1,20 @@
 using System.Xml;
 
+/*
+protected void Page_Load(object sender, EventArgs e)
+        {
+            // check for cookies 
+            if (Request.Cookies["ssncookie"] != null)
+            {
+                Console.WriteLine("cookies");
+            }
+            else
+            {
+                Response.Redirect("~/login.aspx");
+            }
+        }
+*/
+
 // Load the existing XML file
 XmlDocument doc = new XmlDocument();
 doc.Load("existingFile.xml");
